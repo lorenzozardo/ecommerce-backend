@@ -4,3 +4,5 @@ public interface ProdutoPorCategoriaProjection {
     String getCategoria();
     Long getQuantidade();
 }
+
+//"{ categoria: "", quantidade: "" }"
